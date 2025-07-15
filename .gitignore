@@ -1,0 +1,9 @@
+# Compiled binaries
+hello
+hello_optimized
+
+# Assembly files
+*.s
+
+# Object files
+*.o
